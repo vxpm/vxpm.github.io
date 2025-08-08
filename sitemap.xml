@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://viniciusx.com/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/backyard/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/blog/building-a-hash-map/</loc>
+        <lastmod>2025-07-31</lastmod>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/tags/data-structures/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/tags/hash/</loc>
+    </url>
+    <url>
+        <loc>https://viniciusx.com/tags/rust/</loc>
+    </url>
+</urlset>
